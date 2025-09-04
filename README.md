@@ -3,14 +3,6 @@ Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yan
 
 To access admin page, add url /admin. Example http://localhost/rental_eria/admin
 
-## Tampilan Aplikasi
-![ss](images/ss1.png)
-![ss](images/ss2.png)
-![ss](images/ss3.png)
-![ss](images/ss4.png)
-![ss](images/ss5.png)
-![ss](images/ss6.png)
-
 ## Admin Account
 |   Level   |     Username      | Password |
 |:---------:|:-----------------:|---------:|
